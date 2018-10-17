@@ -1,6 +1,6 @@
 # Computer science - array sorting
 
-This is Python coded Keylogger application. Once run it will detect all keyboard events and save it to logs. The app run automatcly on windows startup, once runed for the first time.
+This is python implementation of two array sorting algorithms.
 
 ## Requirements:
 Python3
